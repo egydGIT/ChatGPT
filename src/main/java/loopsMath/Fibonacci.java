@@ -1,4 +1,4 @@
-package loopsMath;/*
+/*
 Feladat:
 Írj egy programot, amely kiszámítja egy loopsMath.Fibonacci-sorozat első N elemét!
 A loopsMath.Fibonacci-sorozat az előző két elem összegéből áll, és az első két elem általában 0 és 1.
@@ -9,7 +9,7 @@ Példa:
 Ha a felhasználó beírja a számot: 10
 A programnak ki kell írnia az eredményt: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
  */
-
+package loopsMath;
 import java.util.ArrayList;
 import java.util.List;
 

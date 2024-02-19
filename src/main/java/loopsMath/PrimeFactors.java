@@ -1,4 +1,4 @@
-package loopsMath;/*
+/*
 Feladat:
 Írj egy programot, amely bekér egy pozitív egész számot a felhasználótól,
 majd meghatározza és kiírja az adott szám prím faktorait és a faktorizált alakját!
@@ -16,7 +16,7 @@ Használj egy ciklust, amely végigmegy az 2-től a megadott számig, majd vizsg
 hogy az adott szám osztója-e a felhasználó által megadott számnak és prím-e! Ha prím faktort találsz,
 add hozzá az eredmény sztringhez és csökkentsd az eredeti számot a faktorral.
  */
-
+package loopsMath;
 import java.util.ArrayList;
 import java.util.List;
 

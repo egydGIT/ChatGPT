@@ -1,4 +1,4 @@
-package loopsMath;/*
+/*
 Feladat:
 Írj egy programot, amely bekér egy pozitív egész számot a felhasználótól,
 majd meghatározza és kiírja az adott szám legnagyobb közös osztóját (LNKO)!
@@ -12,7 +12,7 @@ Használj egy ciklust, amely végigmegy a 2-től a kisebbik számig, majd ellen�
 hogy az adott szám osztója-e mindkét számnak. Ha az adott szám osztója mindkét számnak, 
 tárold el az aktuális értékét, majd folytasd a ciklust az összes kisebb számra.
  */
-
+package loopsMath;
 import java.util.ArrayList;
 import java.util.List;
 

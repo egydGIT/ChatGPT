@@ -1,4 +1,4 @@
-package loopsMath;/*
+/*
 Feladat:
 Írj egy programot, amely bekér egy pozitív egész számot a felhasználótól,
 majd kiszámítja és kiírja az adott szám faktoriálisát!
@@ -14,6 +14,7 @@ Tipp:
 Használj egy ciklust, amely végigmegy az 1-től a megadott számig,
 majd kiszámítja az egész számok szorzatát a faktoriális meghatározásához!
  */
+package loopsMath;
 
 public class Factorial {
 

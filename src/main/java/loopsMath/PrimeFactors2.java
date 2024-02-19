@@ -1,4 +1,4 @@
-package loopsMath;/*
+/*
 Feladat:
 Írj egy programot, amely bekér egy pozitív egész számot a felhasználótól,
 majd meghatározza és kiírja az adott szám prím faktorait!
@@ -17,7 +17,7 @@ Használj egy ciklust a prím faktorok meghatározásához.
 Vizsgáld meg, hogy a szám osztható-e a ciklus aktuális értékével.
 Ha osztható, akkor a ciklusban folyamatosan oszd el a számot és tárolj el minden osztót.
  */
-
+package loopsMath;
 import java.util.HashSet;
 
 public class PrimeFactors2 {

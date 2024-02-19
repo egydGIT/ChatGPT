@@ -1,4 +1,4 @@
-package loopsMath;/*
+/*
 Feladat:
 Írj egy programot, amely bekér egy pozitív egész számot a felhasználótól,
 majd meghatározza és kiírja az adott szám prím-e vagy sem!
@@ -17,6 +17,7 @@ Tipp:
 Használj egy ciklust, amely végigmegy az 2 és a megadott szám közötti számokon, majd vizsgáld meg,
 hogy az adott szám osztható-e más számokkal, kivéve az 1 és önmagát!
  */
+package loopsMath;
 
 public class IsPrime {
 

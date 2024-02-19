@@ -1,4 +1,4 @@
-package loopsMath;/*
+/*
 Feladat:
 Írj egy programot, amely bekér egy pozitív egész számot a felhasználótól,
 majd meghatározza és kiírja az adott szám osztóit!
@@ -11,7 +11,7 @@ Tipp:
 Használj egy ciklust, amely végigmegy az 1 és a megadott szám közötti számokon, majd vizsgáld meg,
 hogy az adott szám osztója-e a felhasználó által megadott számnak!
  */
-
+package loopsMath;
 import java.util.ArrayList;
 import java.util.List;
 

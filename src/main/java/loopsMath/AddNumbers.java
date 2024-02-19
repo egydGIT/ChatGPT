@@ -1,4 +1,4 @@
-package loopsMath;/*
+/*
 Feladat:
 Írj egy programot, amely egy adott számnak meghatározza a számjegyeinek összegét!
 
@@ -16,6 +16,7 @@ Tipp:
 A számjegyek összegét egy ciklussal számolhatod össze, amely végigmegy a számjegyeken
 és az összegzést frissíti a jelenlegi számjegy értékével.
  */
+package loopsMath;
 
 public class AddNumbers {
 

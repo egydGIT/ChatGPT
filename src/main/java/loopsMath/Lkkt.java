@@ -1,4 +1,4 @@
-package loopsMath;/*
+/*
 Feladat:
 Írj egy programot, amely bekér két pozitív egész számot a felhasználótól, majd meghatározza és kiírja
 a két szám legkisebb közös többszörösét (LKKT)!
@@ -17,6 +17,7 @@ Használj egy ciklust, amely végigmegy a nagyobbik számtól kezdve,
 Ellenőrizd minden lépésben, hogy az aktuális érték osztható-e mindkét számmal.
 Ha igen, akkor ez az LKKT, és kiléphetsz a ciklusból.
  */
+package loopsMath;
 
 public class Lkkt {
 

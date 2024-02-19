@@ -1,4 +1,4 @@
-package loopsMath;/*
+/*
 Feladat:
 Írj egy programot, amely megfordítja egy adott számjegyeket tartalmazó számot!
 A programnak a felhasználótól kell bekérnie egy pozitív egész számot, majd meg kell fordítania annak számjegyeit,
@@ -11,6 +11,7 @@ A programnak ki kell írnia az eredményt: 54321
 Tipp:
 A számjegyek megfordításához konvertáld a számot stringgé, majd alakítsd vissza szám típusra és fordítsd meg a sorrendet!
  */
+package loopsMath;
 
 public class ReverseNumber {
 

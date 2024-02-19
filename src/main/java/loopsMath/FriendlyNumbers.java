@@ -1,4 +1,4 @@
-package loopsMath;/*
+/*
 Feladat:
 Írj egy programot, amely meghatározza, hogy egy adott szám "barátságos szám" vagy sem.
 
@@ -16,7 +16,7 @@ Tipp:
 Készíts egy metódust, amely számok számjegyeinek összegét számolja ki,
 majd ezt használd a barátságos számok ellenőrzéséhez.
  */
-
+package loopsMath;
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package loopsMath;/*
+/*
 Feladat:
 Írj egy programot, amely bekér egy pozitív egész számot a felhasználótól,
 majd meghatározza és kiírja az adott számhoz tartozó loopsMath.Collatz-sorozat hosszát és a sorozat elemeit!
@@ -25,7 +25,7 @@ Tipp:
 Használj egy ciklust a loopsMath.Collatz-sorozat elemeinek meghatározásához.
 Az elemeket egy listában tárold, majd a lista elemeit használd a hossz és az elemek kiírásához.
  */
-
+package loopsMath;
 import java.util.ArrayList;
 import java.util.List;
 

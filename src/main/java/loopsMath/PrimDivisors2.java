@@ -1,4 +1,4 @@
-package loopsMath;/*
+/*
 Feladat:
 Írj egy programot, amely bekér egy pozitív egész számot a felhasználótól,
 majd meghatározza és kiírja az adott szám prímtényezős felbontását!
@@ -15,6 +15,7 @@ Tipp:
 Az algoritmus hasonló lesz, mint az LNKO feladatban alkalmazott prímtényezős felbontás.
 Vizsgáld meg, hogy hány prímszám osztója az adott számnak, majd írd ki az osztókat és szorozd össze őket.
  */
+package loopsMath;
 
 public class PrimDivisors2 {
 

@@ -1,4 +1,4 @@
-package loopsMath;/*
+/*
 Feladat: Írj egy programot, amely bekér egy pozitív egész számot a felhasználótól,
 majd meghatározza és kiírja az adott szám négyzetgyökét, ha az egy pozitív egész szám!
 
@@ -14,6 +14,7 @@ Tipp:
 Használj egy megfelelő metódust, például a Math.sqrt() metódust, amely meghatározza a négyzetgyöket.
 Ellenőrizd azt is, hogy a négyzetgyök eredménye egész szám-e, és csak akkor írd ki az eredményt, ha az egész szám.
  */
+package loopsMath;
 
 public class SquareRoot {
 
