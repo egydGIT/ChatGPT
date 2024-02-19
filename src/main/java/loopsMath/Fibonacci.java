@@ -1,9 +1,9 @@
-/*
+package loopsMath;/*
 Feladat:
-Írj egy programot, amely kiszámítja egy Fibonacci-sorozat első N elemét!
-A Fibonacci-sorozat az előző két elem összegéből áll, és az első két elem általában 0 és 1.
+Írj egy programot, amely kiszámítja egy loopsMath.Fibonacci-sorozat első N elemét!
+A loopsMath.Fibonacci-sorozat az előző két elem összegéből áll, és az első két elem általában 0 és 1.
 Tehát az N. elemet a (N-1). és (N-2). elem összege adja meg.
-A programnak a felhasználótól kell bekérnie egy pozitív egész számot (N), majd ki kell írnia az első N Fibonacci-számot.
+A programnak a felhasználótól kell bekérnie egy pozitív egész számot (N), majd ki kell írnia az első N loopsMath.Fibonacci-számot.
 
 Példa:
 Ha a felhasználó beírja a számot: 10

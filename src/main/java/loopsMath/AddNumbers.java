@@ -1,4 +1,4 @@
-/*
+package loopsMath;/*
 Feladat:
 Írj egy programot, amely egy adott számnak meghatározza a számjegyeinek összegét!
 

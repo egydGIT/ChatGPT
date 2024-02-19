@@ -1,4 +1,4 @@
-// Feladat: Írj egy programot, amely kiírja az első 12 páros számot!
+package loopsMath;// Feladat: Írj egy programot, amely kiírja az első 12 páros számot!
 
 public class Circles {
 

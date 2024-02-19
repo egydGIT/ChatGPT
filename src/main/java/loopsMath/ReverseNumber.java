@@ -1,4 +1,4 @@
-/*
+package loopsMath;/*
 Feladat:
 Írj egy programot, amely megfordítja egy adott számjegyeket tartalmazó számot!
 A programnak a felhasználótól kell bekérnie egy pozitív egész számot, majd meg kell fordítania annak számjegyeit,

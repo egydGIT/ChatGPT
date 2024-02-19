@@ -1,4 +1,4 @@
-/*
+package loopsMath;/*
 Feladat:
 Írj egy programot, amely bekér egy pozitív egész számot a felhasználótól,
 majd kiszámítja és kiírja az adott szám faktoriálisát!

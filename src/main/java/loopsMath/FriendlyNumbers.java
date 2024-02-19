@@ -1,4 +1,4 @@
-/*
+package loopsMath;/*
 Feladat:
 Írj egy programot, amely meghatározza, hogy egy adott szám "barátságos szám" vagy sem.
 

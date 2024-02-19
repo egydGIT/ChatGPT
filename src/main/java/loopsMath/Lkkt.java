@@ -1,4 +1,4 @@
-/*
+package loopsMath;/*
 Feladat:
 Írj egy programot, amely bekér két pozitív egész számot a felhasználótól, majd meghatározza és kiírja
 a két szám legkisebb közös többszörösét (LKKT)!
